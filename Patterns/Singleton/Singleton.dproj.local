@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/07 01:59:24.000.714,=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/07 02:17:43.000.850,C:\Users\dener\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Singleton.dproj</Transaction>
+    <Transaction>2020/09/07 11:33:10.000.828,=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/07 11:33:20.000.023,C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Pessoa.pas</Transaction>
+    <Transaction>2020/09/07 11:33:37.000.287,C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Principal.pas</Transaction>
+    <Transaction>2020/09/07 11:33:37.000.287,C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Principal.dfm</Transaction>
+    <Transaction>2020/09/07 13:38:45.000.492,C:\Users\dener\Documents\Embarcadero\Studio\Projects\Pessoa.pas=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Pessoa.Impl.pas</Transaction>
+    <Transaction>2020/09/07 13:52:12.000.950,=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/07 13:52:21.000.764,C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Pessoa.Int.pas</Transaction>
+    <Transaction>2020/09/07 14:32:20.000.807,=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/07 14:45:30.000.465,=C:\Users\dener\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/09/07 15:10:16.874,D:\PROJETOS\DELPHI\Patterns\Singleton\Pessoa.Int.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
